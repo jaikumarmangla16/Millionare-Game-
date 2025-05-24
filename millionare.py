@@ -3,7 +3,7 @@ import ast
 import re
 
 # Configure your Gemini API key
-genai.configure(api_key="AIzaSyBseSWey0ELRezuNsAL3MJQE1zOGMHB52w")
+genai.configure(api_key="Paste your API Key here")
 
 model = genai.GenerativeModel('gemini-2.0-flash-thinking-exp-1219') #enter you model here by choosing from the list of models you get when you run getmodel.py
 
