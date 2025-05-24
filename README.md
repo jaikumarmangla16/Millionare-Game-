@@ -1,32 +1,38 @@
-💰 Millionaire Game (Powered by Gemini AI)
-A console-based Who Wants to Be a Millionaire style quiz game where questions are generated on the fly using the Gemini AI model. Players keep answering multiple-choice questions until they give a wrong answer!
+# 💰 Millionaire Game (Powered by Gemini AI)
 
-📁 Project Structure
-bash
-Copy
-Edit
+A console-based *Who Wants to Be a Millionaire* style quiz game where questions are generated on the fly using the **Gemini AI model**. Players keep answering multiple-choice questions until they give a wrong answer!
+
+---
+
+## 📁 Project Structure
+
 Millionaire-Game/
-├── getmodel.py         # Initializes Gemini model using your API key
-├── millionaire.py      # Main game logic
-├── README.md           # You're here
-🚀 Features
-🤖 Auto-generated multiple choice questions using Gemini AI
+├── getmodel.py # Initializes Gemini model using your API key
+├── millionaire.py # Main game logic
+├── README.md # You're here
 
-📈 Gradual increase in question difficulty
-
-⛔ Game stops if the user gives the wrong answer
-
-🧠 General Knowledge based questions
-
-✅ Clean console-based interface
-
-🔒 API key-based authentication
-
-🔧 Setup Instructions
-1. Clone the Repo
-bash
+yaml
 Copy
 Edit
+
+---
+
+## 🚀 Features
+
+- 🤖 Auto-generated multiple choice questions using Gemini AI  
+- 📈 Gradual increase in question difficulty  
+- ⛔ Game stops if the user gives the wrong answer  
+- 🧠 General Knowledge based questions  
+- ✅ Clean console-based interface  
+- 🔒 API key-based authentication  
+
+---
+
+## 🔧 Setup Instructions
+
+### 1. Clone the Repo
+
+```bash
 git clone https://github.com/your-username/Millionaire-Game.git
 cd Millionaire-Game
 2. Install Dependencies
@@ -108,3 +114,13 @@ This project is for educational purposes. Feel free to customize, improve, and s
 Jai Kumar Mangla
 Student at Manav Rachna International University
 ✨ Passionate about AI, product design, and game development
+
+yaml
+Copy
+Edit
+
+---
+
+✅ This is fully GitHub-compatible. Just save it in a `README.md` file in the root of your project.
+
+Want me to help upload the files to GitHub or generate a PDF from this?
