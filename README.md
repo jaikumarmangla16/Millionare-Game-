@@ -1,7 +1,3 @@
-Here’s an improved and more attractive version of your README.md, making use of modern Markdown formatting, emojis, and clearer organization. You can copy and replace your current README.md with this:
-
----
-
 # 💰 Millionaire Game  
 *A Gemini AI-Powered Console Quiz Experience!*
 
@@ -131,5 +127,3 @@ Student, Manav Rachna International University
 > ✅ Save this as `README.md` in your project’s root folder for a great first impression on GitHub!
 
 ---
-
-Let me know if you want help uploading files, generating a PDF, or further customizing your README!
